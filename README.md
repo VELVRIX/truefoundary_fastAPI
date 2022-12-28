@@ -7,3 +7,6 @@
 * activate the virtual environment 
 * install prereqisites by running the command 'pip install -r .\requirements.txt' in the terminal.
 * to run the code use 'python .\main.py' command.
+
+## Hugging Face 
+Model link : https://huggingface.co/velvrix/truefoundary_sentimental_RoBERTa
